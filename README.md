@@ -34,7 +34,7 @@ Located in the `/demo` directory:
 
 ---
 
-## ⚙️ Technical Summary
+## Technical Summary
 
 - **Attack Simulation Flow**:
     
