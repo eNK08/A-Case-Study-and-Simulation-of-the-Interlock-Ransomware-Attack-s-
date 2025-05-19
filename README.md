@@ -87,6 +87,3 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 This project is for **educational purposes only**. All tools and scripts included here were used in a **controlled lab environment**. We do **not** condone or support malicious use of this code or any related techniques.
 
 ---
-
-# References
-
