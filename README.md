@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project presents a technical case study and experimental demonstration of the **Interlock Ransomware group**, an emerging threat actor publicly identified in 2024. We examined their tactics, techniques, and procedures (TTPs), which include phishing, LOLBins abuse, remote access tools, and custom encryption using LibTomCrypt.
 
