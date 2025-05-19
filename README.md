@@ -72,7 +72,7 @@ Located in the `/demo` directory:
 | Name               | Role                       | GitHub                                           |
 | ------------------ | -------------------------- | ------------------------------------------------ |
 | Nikoloz Kurtanidze | Research, Writing, Testing | [@eNK08](https://github.com/eNK08)               |
-| James McGrath      | Research, Development,     | [@JMcGrath2025](https://github.com/JMcGrath2025) |
+| James McGrath      | Research, Development      | [@JMcGrath2025](https://github.com/JMcGrath2025) |
 
 ---
 
