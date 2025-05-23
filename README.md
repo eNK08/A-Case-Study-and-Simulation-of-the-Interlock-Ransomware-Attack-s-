@@ -1,6 +1,6 @@
 # A Case Study and Simulation of the Interlock Ransomware Attack(s)
 
-**By ****[Nikoloz Kurtanidze](https://github.com/eNK08)**** and ****[James McGrath](https://github.com/JMcGrath2025)**  
+**By **[Nikoloz Kurtanidze](https://github.com/eNK08)**** and **[James McGrath](https://github.com/JMcGrath2025)**  
 
 ---
 
